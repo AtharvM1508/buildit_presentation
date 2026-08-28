@@ -18,9 +18,9 @@ const ibmPlexMono = IBM_Plex_Mono({
 const bebasNeue = Bebas_Neue({ weight: "400", subsets: ["latin"], variable: "--font-bebas" })
 
 export const metadata: Metadata = {
-  title: "BUILDIT — Build Skills. Build Projects. Build Proof.",
+  title: "atharv martand's website",
   description:
-    "Template: tinker and change texts as per your project. Includes problems, solution, project review video, MVP (at least 4), revenue model, credits, and feedback form.",
+    "GREATEST OF ALL TIME",
 }
 
 export default function RootLayout({
